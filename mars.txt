@@ -6,3 +6,4 @@ The Mummy will appreciate the lack of humidity
 But the mummy will appreciate the lack of humidity
 >>>>>>> e3ab2f7d4ca1f2caf012c31a54cce377c902fcd5
 This line was added from laptop
+THis is a line from desktop
